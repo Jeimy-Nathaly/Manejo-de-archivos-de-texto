@@ -23,8 +23,10 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 ##### La aplicación cuenta con las siguientes funcionalidades:
 
-Validar que ninguno de los campos esté vacío.
+Validar que ninguno de los campos esté vacío:
+
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/primera.png?raw=true)
+
 
 Mostrar mensajes de alerta cuando falta información.
 
