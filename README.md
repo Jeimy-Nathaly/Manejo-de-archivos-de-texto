@@ -1,4 +1,4 @@
-### ✨ PLANTILLA README – GitHub ✨
+<img width="1680" height="182" alt="image" src="https://github.com/user-attachments/assets/72757dd7-8c10-473f-a59c-4ae359aaa14e" />### ✨ PLANTILLA README – GitHub ✨
 #####  Nombre del Proyecto: 
 Manejo de Archivos de Texto y Validaciones en C#
 
@@ -23,24 +23,25 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 ##### La aplicación cuenta con las siguientes funcionalidades:
 
-Validar que ninguno de los campos esté vacío:
+Validar que los campos no estén vacíos.:
 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/primera.png?raw=true)
 
 
-Mostrar mensajes de alerta cuando falta información.
+Emitir mensajes de alerta cuando se genere el archivo de texto:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/segunda.png?raw=true)
-Permitir guardar los datos del empleado en un archivo de texto.
 
-Usar un cuadro de diálogo para elegir el nombre y la ubicación del archivo.
+Permitir guardar los datos del empleado en un archivo de texto:
 
-Mostrar un mensaje de confirmación cuando el archivo se guarda correctamente.
+![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/tercera.png?raw=true)
 
-Permitir abrir y visualizar el archivo guardado.
+Emitir mensaje de alerta preguntando si desea salir de la aplicación:
+![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/tercera.png?raw=true)
+Guardar el archivo con un nombre que indique en el cuadro de dialogo:
+![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/cuarta.png?raw=true)
+Abrir el archivo guardado:
+![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/quinta.png?raw=true)
 
-Mostrar un mensaje de confirmación al intentar salir de la aplicación.
-
-Organizar los datos guardados en formato de tabla dentro del archivo.
 
 ### Contexto Académico
 
