@@ -52,7 +52,10 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 ### Autor
 
-##### ✨Jeimy Nathaly Concepción Ramírez✨
+##### ✨Jeimy Nathaly Concepción Ramírez. #7✨
+##### ✨Jesús Enrique Chalas Severino. #6✨
+
+
 
 
 
