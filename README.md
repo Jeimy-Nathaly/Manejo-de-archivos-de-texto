@@ -1,4 +1,4 @@
-<img width="1680" height="182" alt="image" src="https://github.com/user-attachments/assets/72757dd7-8c10-473f-a59c-4ae359aaa14e" />### ✨ PLANTILLA README – GitHub ✨
+### ✨ PLANTILLA README – GitHub ✨
 #####  Nombre del Proyecto: 
 Manejo de Archivos de Texto y Validaciones en C#
 
