@@ -24,9 +24,8 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 ##### La aplicación cuenta con las siguientes funcionalidades:
 
 Validar que ninguno de los campos esté vacío.
-<img width="327" height="50" alt="image" src="https://github.com/user-attachments/assets/982b1beb-17a6-42a4-ba43-aa8f6db22e44" />
-
-
+![image alt]([image_url](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/primera.png?raw=true
+)
 Mostrar mensajes de alerta cuando falta información.
 
 Permitir guardar los datos del empleado en un archivo de texto.
