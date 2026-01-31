@@ -23,23 +23,21 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 ##### La aplicación cuenta con las siguientes funcionalidades:
 
-Validar que los campos no estén vacíos.:
+- Validar que los campos no estén vacíos.:
 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/primera.png?raw=true)
 
 
-Emitir mensajes de alerta cuando se genere el archivo de texto:
+- Emitir mensajes de alerta cuando se genere el archivo de texto:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/segunda.png?raw=true)
 
-Permitir guardar los datos del empleado en un archivo de texto:
-
+- Emitir mensaje de alerta preguntando si desea salir de la aplicación:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/tercera.png?raw=true)
 
-Emitir mensaje de alerta preguntando si desea salir de la aplicación:
-![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/tercera.png?raw=true)
-Guardar el archivo con un nombre que indique en el cuadro de dialogo:
+- Guardar el archivo con un nombre que indique en el cuadro de dialogo:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/cuarta.png?raw=true)
-Abrir el archivo guardado:
+
+- Abrir el archivo guardado:
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/quinta.png?raw=true)
 
 
