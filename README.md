@@ -23,7 +23,7 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 ##### La aplicación cuenta con las siguientes funcionalidades:
 
-- Validar que los campos no estén vacíos.:
+- Validar que los campos no estén vacíos:
 
 ![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/primera.png?raw=true)
 
@@ -50,7 +50,7 @@ El archivo se guarda usando un cuadro de diálogo, parecido a cuando se guarda u
 
 
 
-### Autor
+### Autores
 
 ##### ✨Jeimy Nathaly Concepción Ramírez. #7✨
 ##### ✨Jesús Enrique Chalas Severino. #6✨
