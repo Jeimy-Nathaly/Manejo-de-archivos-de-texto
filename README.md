@@ -29,7 +29,7 @@ Validar que ninguno de los campos esté vacío:
 
 
 Mostrar mensajes de alerta cuando falta información.
-
+![imagen alt](https://github.com/Jeimy-Nathaly/Manejo-de-archivos-de-texto/blob/main/segunda.png?raw=true)
 Permitir guardar los datos del empleado en un archivo de texto.
 
 Usar un cuadro de diálogo para elegir el nombre y la ubicación del archivo.
